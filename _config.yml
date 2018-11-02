@@ -24,13 +24,13 @@ linkedin_username: previ
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-I am currently working in the Digital Applications unit for a large Energy company.
-My job covers most of the tasks required to design and deliver a service: understanding the needs, designing the solution, defining the architecture and developing the actual service components.
-The development process is inherently iterative and “agile”: team up with the business customers, release early and often, focus on working software, mostly developed in-house.
-Digital Systems
-I personally designed and managed the actual implementation of a service aimed at digitalizing the operations and maintenance of oil production plants and refineries.
-The system architecture is based on microservices, deployed as Docker containers orchestrated by Kubernetes on a on-premise installation.
-Services are accessible via REST APIs exposed via an API Gateway, persistence (datastores) is implemented with MongoDB, MySQL and Cassandra datastores, for different use cases.
+  I am currently working in the Digital Applications unit for a large Energy company.
+  My job covers most of the tasks required to design and deliver a service: understanding the needs, designing the solution, defining the architecture and developing the actual service components.
+  The development process is inherently iterative and “agile”: team up with the business customers, release early and often, focus on working software, mostly developed in-house.
+  Digital Systems
+  I personally designed and managed the actual implementation of a service aimed at digitalizing the operations and maintenance of oil production plants and refineries.
+  The system architecture is based on microservices, deployed as Docker containers orchestrated by Kubernetes on a on-premise installation.
+  Services are accessible via REST APIs exposed via an API Gateway, persistence (datastores) is implemented with MongoDB, MySQL and Cassandra datastores, for different use cases.
 
 # Projects Section
 # projects_title: Projects
