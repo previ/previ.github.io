@@ -1,0 +1,63 @@
+# Site
+repository: previ/resume
+# favicon: images/favicon.ico
+
+# Personal info
+name: Roberto Previtera
+title: Digital Application Project Manager, Software Architect
+email: roberto.previtera@gmail.com
+website: previ.github.io
+
+# Social links
+twitter_username: previ
+github_username:  previ
+# dribbble_username: jekyll
+facebook_username: previ
+# flickr_username: jekyll
+instagram_username: previ
+linkedin_username: previ
+# pinterest_username: jekyll
+#youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+I am currently working in the Digital Applications unit for a large Energy company.
+My job covers most of the tasks required to design and deliver a service: understanding the needs, designing the solution, defining the architecture and developing the actual service components.
+The development process is inherently iterative and “agile”: team up with the business customers, release early and often, focus on working software, mostly developed in-house.
+Digital Systems
+I personally designed and managed the actual implementation of a service aimed at digitalizing the operations and maintenance of oil production plants and refineries.
+The system architecture is based on microservices, deployed as Docker containers orchestrated by Kubernetes on a on-premise installation.
+Services are accessible via REST APIs exposed via an API Gateway, persistence (datastores) is implemented with MongoDB, MySQL and Cassandra datastores, for different use cases.
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+   - Mountain biking
+   - Skiing
+   - Windsurfing
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

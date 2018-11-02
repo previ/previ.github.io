@@ -1,0 +1,7 @@
+- name: Univerità degli Studi di Milano
+  dates: 1989 - 1993
+  qualification: MSc Computer Science
+  quote: >
+    The University of Milan (Italian: Università degli Studi di Milano), known colloquially as UniMi or Statale, is a higher education institution in Milan, Italy.
+  description: | # this will include new lines to allow paragraphs
+    I attended the first three years at the Politecnico di Milano where I attended Electronic Engineering, then moved to Università di Milano to achieve a degree in Computer Science.

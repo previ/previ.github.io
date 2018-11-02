@@ -1,0 +1,7 @@
+- name: Project 1
+  link: github.com/coderbotorg
+  github: coderbotorg.github.com
+  quote: >
+    [TODO]
+  description: | # this will include new lines to allow paragraphs
+    [TODO]
